@@ -1,2 +1,2 @@
 # database-dev-SQL
-Implementation of a SQL database from scratch
+Database design document with the design and implementation of a SQL genomic database from scratch
